@@ -1,0 +1,6 @@
+[submodule "robotics-toolbox-matlab"]
+	path = robotics-toolbox-matlab
+	url = git@github.com:Chris-Bee/robotics-toolbox-matlab.git
+[submodule "toolbox-common-matlab"]
+	path = toolbox-common-matlab
+	url = git@github.com:Chris-Bee/toolbox-common-matlab.git
